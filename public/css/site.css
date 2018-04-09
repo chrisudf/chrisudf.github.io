@@ -40,6 +40,8 @@
     color:white;
 }
 
+
+
 .profile-card .profile-card_header .profile-card_photo_wrapper:hover{
     -webkit-transform: translateY(-9px);
     -ms-transform: translateY(-9px);
@@ -49,3 +51,5 @@
     -moz-box-shadow: 0px 18px 24px rgba(0,0,0,0.15);
     box-shadow: 0px 18px 24px rgba(0,0,0,0.15);
 }
+
+
